@@ -52,7 +52,7 @@ figure{
 
 figure img{ 
    padding:4px;
-   background:#666;		
+   background:#0265C9;		
    border-radius:20px;	
    -webkit-transition:-webkit-transform 0.3s ease-in-out 0.1s;	
    -moz-transition:-moz-transform 0.3s ease-in-out 0.1s;
@@ -78,7 +78,7 @@ footer{
 
 footer p{
 	font:1.6em Georgia, "Times New Roman", Times, serif;
-	color:#666;
+	color:#0265C9;
 	margin:10px 8px; 	
 }
 
